@@ -1,0 +1,2 @@
+# pensamento-computacional
+jogos variáveis
